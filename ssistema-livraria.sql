@@ -37,3 +37,4 @@ INSERT INTO Compras (CompraID, ClienteID, NomeLivro) VALUES
 (108, 3, 'O Hobbit'),
 (109, 4, 'Cem Anos de Solidão'),
 (110, 5, 'O Alienista');
+ORDER BY c.nomeCliente;
