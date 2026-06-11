@@ -22,7 +22,7 @@ BEGIN
 
     SELECT nome INTO nome_aluno
     FROM alunos
-    WHERE id = 2;
+    WHERE id = 3;
 
 
     SELECT nome_aluno;
